@@ -12,7 +12,7 @@ Install the plugin with your preferred package manager:
 Plug 'derfetzer/pytask.nvim'
 
 lua << EOF
-require("nvim-autopairs").setup {}
+require("pytask").setup {}
 EOF
 ```
 
